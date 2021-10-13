@@ -55,5 +55,5 @@ For complete copyright and license terms please see the LICENSE.txt file at the 
 -	It's fine to connect to third-party platform services like Steamworks, Apple GameCenter, console platform services, etc.  
 To learn more, please see our FAQs https://aws.amazon.com/lumberyard/faq/#licensing.
 
-# Checksum (MD5): 43a155d5e999568c795a665c8dd5d7a3
-## download page: https://d2zdx4pxusljwa.cloudfront.net/NEMO_1.24.zip
+##### Checksum (MD5): 43a155d5e999568c795a665c8dd5d7a3
+##### download page: https://d2zdx4pxusljwa.cloudfront.net/NEMO_1.24.zip
