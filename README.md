@@ -1,5 +1,4 @@
 ![lmbr](http://d2tinsms4add52.cloudfront.net/github/readme_header.jpg)
-
 # Amazon Lumberyard
 Amazon Lumberyard is a free, AAA game engine that gives you the tools you need to create high quality games. Deeply integrated with AWS and Twitch, Amazon Lumberyard includes full source code, allowing you to customize your project at any level.
 
@@ -55,3 +54,6 @@ For complete copyright and license terms please see the LICENSE.txt file at the 
 -	Your fork may not enable the use of third-party compute, storage or database services.  
 -	It's fine to connect to third-party platform services like Steamworks, Apple GameCenter, console platform services, etc.  
 To learn more, please see our FAQs https://aws.amazon.com/lumberyard/faq/#licensing.
+
+# Checksum (MD5): 43a155d5e999568c795a665c8dd5d7a3
+## download page: https://d2zdx4pxusljwa.cloudfront.net/NEMO_1.24.zip
